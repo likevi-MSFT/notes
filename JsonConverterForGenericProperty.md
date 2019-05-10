@@ -1,4 +1,4 @@
-Code:
+Code
 ```C#
 namespace TestConsoleApp
 {

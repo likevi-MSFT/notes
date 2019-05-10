@@ -1,3 +1,4 @@
+Code:
 ```C#
 namespace TestConsoleApp
 {
@@ -142,5 +143,5 @@ namespace TestConsoleApp
 Output
 ```
 Serialized description, descriptionJson    {"type":"A","p":{"s":"some string"}}
-Serialized deserialized description json   {"type":"A","p":{"s":"some string"}
+Serialized deserialized description json   {"type":"A","p":{"s":"some string"}}
 ```
